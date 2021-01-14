@@ -1,0 +1,11 @@
+Age, Name, Salary, Hours, Hired, Fired
+32, Maria, 12000.0, 67.0, true, false
+44, Juan, 12350.0, 33.0, true, false
+56, Alba, 11220.0, 25.0, true, false
+17, Stephen, 25000.0, 53.0, true, false
+32, Joan, 45000.0, 65.0, true, false
+47, Lucy, 21930.0, 21.0, true, false
+43, Patricia, 22375.0, 21.0, true, false
+54, Ildefonso, 26275.2, 19.0, true, false
+57, Peter, 24024.06, 44.0, true, false
+27, Lilian, 19878.0, 40.0, true, false

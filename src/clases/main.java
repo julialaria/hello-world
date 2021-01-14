@@ -1,4 +1,4 @@
-package com.ironhack.main;
+package clases;
 
 import java.io.BufferedWriter;
 import java.io.File;

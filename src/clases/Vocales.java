@@ -1,7 +1,7 @@
 /// dame el numero de vocales que empiezan una palabra que hay en un array
 
 
-package com.ironhack.main.classes;
+package clases;
 
 import java.util.Scanner;
 
